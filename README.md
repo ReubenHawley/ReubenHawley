@@ -10,7 +10,9 @@
 ### Life is a lesson
 >Blockchain and trading inspired me to learn programming, its been a snowball ever since... one can never know enough
 After learning the basics of [**python**](https://www.spronck.net/pythonbook/dutchindex.xhtml), i delved into the basics of **MYSQL**, **HTML**,**CSS**
-While building on [AUTOBOT](https://github.com/ReubenHawley/Autobot) i used the *Pandas* to handle dataframe and data manipulation, *concurrency* to thread and multiprocess parts of my code ,*numpy* to work with arrays,*ccxt* to obtain data and perform execution of trades via an *API*, i then used *sklearn* to build linear regression models.
+While building on [AUTOBOT](https://github.com/ReubenHawley/Autobot) i used the *Pandas* to handle dataframe and data manipulation, *concurrency* to thread and multiprocess parts of my code ,*numpy* to work with arrays,*ccxt* to obtain data and perform execution of trades via an *API*, i then used *sklearn* to build linear regression models. I hosted this bot on a server on an AWS EC2 instance and learned how to ssh into servers.
+
+>For kicks i followed a tutorial on [penetration testing](https://github.com/ReubenHawley/Penetration_testing). I learned how to structure programs in order to respond to them via commandline. I learned a lot about networking and how to gain access via a backdoor.
 
 *My learning roadmap:*
 - Vanilla [*javascript*](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
