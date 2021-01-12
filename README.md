@@ -2,16 +2,16 @@
 pleased to meet you
 ---
 ##Currently working on...
-Algorithmic trading web trading app with backtesting capabilities
+>Algorithmic trading web trading app with backtesting capabilities
 ---
 ##Life is a lesson
-Blockchain inspired me to learn programming, its been a snowball ever since... one can never know enough
+>Blockchain inspired me to learn programming, its been a snowball ever since... one can never know enough
 After learning the basics of **python**, i delved into **MYSQL**, **HTML**,**CSS**
 which led me down the rabbit hole to learn the *Pandas*, *concurrency* , *numpy*,*ccxt*,*sklearn*,*bootstrap4*
 learning javascript to handle the client side, followed by REACT to bea ble to build mobile and web applications 
 --- 
 ---
-But enough about me... id like to hear from you. give me a shout out on reubenhawley@gmail.com or hit me up on twitter
+>But enough about me... id like to hear from you. give me a shout out on reubenhawley@gmail.com or hit me up on twitter
 ---
 <!--
 **ReubenHawley/ReubenHawley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
