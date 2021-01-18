@@ -1,5 +1,5 @@
 # Hi.. Hoi... Hello... Aloha
-> Thank you for visiting my page. I'm Reuben an aspiring software developer. My passion for trading has led me to my automated trading, which is why initially I learnt python with the sole purpose of writing algorithms for trading but that has since become a rabbit hole i have gladly ventured down. My love for knowledge has left me wanting more and in that quest i have decided to enroll to do my bachelors in IT with focus on software development ,data science,machine learning and neural networks. While in my spare time i have dedicated to learning javascript and c++. 
+> <span style="color:blue"> Thank you for visiting my page. I'm Reuben an aspiring software developer. My passion for trading has led me to my automated trading, which is why initially I learnt python with the sole purpose of writing algorithms for trading but that has since become a rabbit hole i have gladly ventured down. My love for knowledge has left me wanting more and in that quest i have decided to enroll to do my bachelors in IT with focus on software development ,data science,machine learning and neural networks. While in my spare time i have dedicated to learning javascript and c++. </span>
 ---
 ### Currently working on...
 - [x] Algorithmic trading web trading app with backtesting capabilities
