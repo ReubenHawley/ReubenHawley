@@ -4,11 +4,13 @@
 ### Currently working on...
 - [x] Learn Python
 - [x] Intermediate python
-- [x] Html
-- [x] CSS
+- [x] Basic Html
+- [x] Basic CSS
 - [x] Algorithmic trading web trading app with backtesting capabilities
 - [ ] Build a web application in javascript
 - [ ] Learn Bootstrap
+- [ ] Master Html
+- [ ] Master CSS
 - [ ] Master Django
 - [ ] A C derived language(c++,c,c#)
 - [ ] Build a neural network
