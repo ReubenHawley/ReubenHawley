@@ -36,5 +36,7 @@ While building on [AUTOBOT](https://github.com/ReubenHawley/Autobot) i used the 
 >I would love to learn more about javascript and could use some help getting started, all tips and advice welcome, especially when it comes to asynchronous programming
 ---
 ### Wanna hook up?
-> Enough about me... I'd like to hear from you. give me a shout out on reubenhawley@gmail.com or hit me up on twitter
+> Enough about me... I'd like to hear from you. give me a shout out on reubenhawley@gmail.com or hit me up on <img src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&url=https%3A%2F%2Ftwitter.com%2FtheonlyReuben">
+
+
 ---
